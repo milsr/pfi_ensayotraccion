@@ -1,12 +1,28 @@
-img{
-    height:auto; width: 100%;
-   
+img {
+    height: auto;
+    width: auto;
 }
 
-h1{ 
+h1 {
     line-height: 80%;
     font-size: 150%;
-    
-   
+    margin: auto;
 }
 
+h6 {
+    font-style: oblique;
+    font-size: 130%;
+}
+
+p {
+    font-size: 115%;
+}
+
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.centrador {
+    position: relative
+}
